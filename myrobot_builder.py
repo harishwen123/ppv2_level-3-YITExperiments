@@ -55,13 +55,14 @@ rectangle(80,50,'red')
 #eyes
 t.goto(-60, 160)
 rectangle(30,10,'white')
-t.goto(-55,155)
+t.goto(-60,160)
 rectangle(5,5,'blue')
-t.goto(-40,155)
+t.goto(-45,155)
 rectangle(5,5,'blue')
 
 #mouth
 t.goto(-65,135)
+t.right(5)
 rectangle(40,5,'black')
 
 t.hideturtle()
