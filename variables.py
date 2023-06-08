@@ -27,3 +27,5 @@ Traceback (most recent call last):
 NameError: name 'heigh' is not defined. Did you mean: 'Height'?
 >>> print(Height)
 169
+height=169
+print(height)
